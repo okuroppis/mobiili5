@@ -25,7 +25,7 @@ public class ekaFragment extends Fragment {
     public void asetateksti(String txt, int id)
     {
         textviewi.setText(txt);
-        editteksi.setText(txt);
+        editteksi.setText("");
 
     }
 
